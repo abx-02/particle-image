@@ -30,7 +30,7 @@
   },
   "image": {
     "src": {
-      "path":  "https://picsum.photos/200",
+      "path":  "https://raw.githubusercontent.com/erkhgns/particle-image/main/test/marketing.png",
       "is_external": true
     },
     "size": {
