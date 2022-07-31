@@ -1,6 +1,6 @@
 {
   "particles": {
-    "density": 50,
+    "density": 20,
     "color": "#FFF",
     "size": {
       "value": 1,
