@@ -3,7 +3,7 @@
     "density": 1200,
     "color": "#FFF",
     "size": {
-      "value": 0,
+      "value": 1,
       "random": false
     },
     "movement": {
@@ -35,7 +35,7 @@
   },
     "size": {
       "canvas_pct": 60,
-      "min_px": 150,
+      "min_px": 250,
       "max_px": 800
     }
   },
