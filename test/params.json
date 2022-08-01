@@ -35,7 +35,7 @@
   },
     "size": {
       "canvas_pct": 60,
-      "min_px": 250,
+      "min_px": 150,
       "max_px": 800
     }
   },
