@@ -3,7 +3,7 @@
     "density": 1200,
     "color": "#FFF",
     "size": {
-      "value": 1,
+      "value": 0,
       "random": false
     },
     "movement": {
